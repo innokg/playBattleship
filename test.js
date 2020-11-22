@@ -1,0 +1,1 @@
+let randomLoc = Math.floor(Math.random()* 5);
